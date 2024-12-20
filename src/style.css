@@ -1,0 +1,34 @@
+/* style.css */
+
+
+
+/* Navigation links styling */
+
+ul li a {
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Underline animation */
+ul li a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2.5px;
+    background-color: rgb(232, 191, 232); /* Customize the underline color */
+    left: 0;
+    bottom:-2px; /* Adjust distance from the text */
+    transition: width 0.4s ease-in-out;
+}
+
+/* Hover effect: Slide-in underline */
+ul li a:hover::after {
+    width: 100%; /* Expand the underline */
+}
+
+ul li a:hover {
+    color: rgb(253, 237, 253); /* Change text color on hover */
+}
