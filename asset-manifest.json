@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DPP-Audit-Portfolio/static/css/main.a0c95164.css",
+    "main.js": "/DPP-Audit-Portfolio/static/js/main.d21a45f0.js",
+    "static/js/453.99a9bac1.chunk.js": "/DPP-Audit-Portfolio/static/js/453.99a9bac1.chunk.js",
+    "static/media/dpp7.jpeg": "/DPP-Audit-Portfolio/static/media/dpp7.dc0757e37ce5e214b938.jpeg",
+    "static/media/image2.jpeg": "/DPP-Audit-Portfolio/static/media/image2.1f8d638a1c73c6204b1a.jpeg",
+    "static/media/image7.jpeg": "/DPP-Audit-Portfolio/static/media/image7.c2780648e8241a5bbccc.jpeg",
+    "static/media/image9.jpeg": "/DPP-Audit-Portfolio/static/media/image9.7e3509f025318cb458a5.jpeg",
+    "static/media/image8.jpeg": "/DPP-Audit-Portfolio/static/media/image8.afe95f332e686d4a0fb3.jpeg",
+    "static/media/image1.jpeg": "/DPP-Audit-Portfolio/static/media/image1.09834cb29f1aa2414de3.jpeg",
+    "static/media/image3.jpeg": "/DPP-Audit-Portfolio/static/media/image3.f3ed25879e674be57fee.jpeg",
+    "static/media/image5.jpeg": "/DPP-Audit-Portfolio/static/media/image5.3e4791b0c786de69350a.jpeg",
+    "static/media/image4.jpeg": "/DPP-Audit-Portfolio/static/media/image4.2d9ff283301a61db8add.jpeg",
+    "static/media/DPP.png": "/DPP-Audit-Portfolio/static/media/DPP.a872f4e5d379bb98df62.png",
+    "static/media/dpp5.png": "/DPP-Audit-Portfolio/static/media/dpp5.f30ff9a4a5d090bb2529.png",
+    "static/media/dpp1.png": "/DPP-Audit-Portfolio/static/media/dpp1.208311ea8a7186b4157f.png",
+    "static/media/dpp2.png": "/DPP-Audit-Portfolio/static/media/dpp2.0e597c7ec0101acdfd0a.png",
+    "static/media/IT.png": "/DPP-Audit-Portfolio/static/media/IT.4956d93ecae7262b1f8b.png",
+    "static/media/LA.png": "/DPP-Audit-Portfolio/static/media/LA.806992e5f17f72b90eca.png",
+    "static/media/CA.png": "/DPP-Audit-Portfolio/static/media/CA.a7a8550918600cbba9bf.png",
+    "static/media/logo-Photoroom-Photoroom-removebg-preview-fotor-2024120702026.png": "/DPP-Audit-Portfolio/static/media/logo-Photoroom-Photoroom-removebg-preview-fotor-2024120702026.6edecded5708213a6b4b.png",
+    "index.html": "/DPP-Audit-Portfolio/index.html",
+    "main.a0c95164.css.map": "/DPP-Audit-Portfolio/static/css/main.a0c95164.css.map",
+    "main.d21a45f0.js.map": "/DPP-Audit-Portfolio/static/js/main.d21a45f0.js.map",
+    "453.99a9bac1.chunk.js.map": "/DPP-Audit-Portfolio/static/js/453.99a9bac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c95164.css",
+    "static/js/main.d21a45f0.js"
+  ]
+}
